@@ -47,7 +47,7 @@ if 'past' not in st.session_state:
 
 
 # Access the ChatGPT API key
-chatgpt_api_key = "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"
+chatgpt_api_key = "sk-*****************************************************"
 
 chat = ChatOpenAI(
     temperature=0.5,
